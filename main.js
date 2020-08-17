@@ -1,1 +1,2 @@
-let hello = document.querySelector('body').html('Vivo el JavaScript! Mejor lengua en todo el mundo!');
+let hello = document.querySelector('body');
+hello.html('Vivo el JavaScript! Mejor lengua en todo el mundo!');
